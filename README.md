@@ -1,14 +1,12 @@
 # Hi 👋, I'm Mihili De Silva
 
-### Software Engineering Undergraduate | Mobile & Full-Stack Developer
+### Software Engineering Undergraduate 
 
 ---
 
 ## 🚀 About Me
-- 🎓 HND in Software Engineering @ NIBM
-- 💻 Passionate about Mobile App Development & Full-Stack Systems
-- 🌱 Currently learning Machine Learning & Advanced Android Development
-- 🔍 Interested in scalable systems, UI/UX, and real-world problem solving
+- 🎓 HND in Software Engineering @NIBM
+- 💻 Passionate about Mobile App Development, Full-Stack Web Development, UI/UX Design, and building intelligent, user-focused software solutions.
 
 ---
 
@@ -29,14 +27,9 @@ Git | GitHub | XAMPP | IntelliJ | VS Code | NetBeans | Firebase
 ---
 
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihilidesilva&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact Me
 - 📧 Email: mihililahiruka925@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/mihili-de-silva  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mihilidesilva
 - 💻 GitHub: https://github.com/mihilidesilva  
 
 ---
