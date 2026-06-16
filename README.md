@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mihili
+# Hi 👋, I'm Mihili De Silva
 
 ### Software Engineering Undergraduate | Mobile & Full-Stack Developer
 
